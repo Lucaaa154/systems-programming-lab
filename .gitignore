@@ -1,0 +1,25 @@
+# Compiled objects
+*.o
+*.obj
+
+# Executables
+assembler
+*.out
+*.exe
+
+# Assembler output files
+*.ob
+*.ent
+*.ext
+*.am
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
