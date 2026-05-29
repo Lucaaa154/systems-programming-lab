@@ -1,0 +1,19 @@
+Reviewing Errors and Warnings for file test6.as:
+Reviewing Errors and Warnings for file test6.am:
+Error in line 2: invalid instruction syntax: (1)paramter (2)comma (3)paramter 
+Error in line 6: comma before first operand
+Error in line 10: more than one comma after first operand
+Error in line 14: comma before first operand
+Error in line 18, extra text after command
+Error in line 22, extra text after command
+Error in line 26: invalid instruction syntax: (1)paramter (2)comma (3)paramter 
+Error in line 30, extra text after command
+Error in line 34: Missing quotation marks at the end of the string
+Error: Label from line 38, multiple label definition
+Error: in line 42, label should start with capital/small character only
+Error in line 42: undefined command
+Error: in line 46, label definition can't be the same name of an guidance
+Error in line 46: undefined command
+Error: in line 50, invalid definition label, label template should be: starts with capital/small character only and after that can contain capital/small characters or digits
+Error in line 50: undefined command
+Error: Label from line 58, multiple label definition

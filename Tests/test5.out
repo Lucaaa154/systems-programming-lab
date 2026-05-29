@@ -1,0 +1,18 @@
+Reviewing Errors and Warnings for file test5.as:
+Reviewing Errors and Warnings for file test5.am:
+Error: in line 2, label length should be less than 32
+Error in line 2: undefined command
+Error: the number in line 3 can not be represented in 12 bits
+Error in line 4: in instruction add the target operand can not be a number
+Error in line 5: in instruction sub the target operand can not be a number
+Error in line 6: in instruction clr the operand can not be a number
+Error: in line 7, invalid operand label, label template should be: starts with capital/small character only and after that can contain capital/small characters or digits
+Error in line 7: invalid first operand
+Error in line 8: in instruction dec the operand can not be a number
+Error: in line 9, label as operand can't be the same name of an instruction
+Error in line 9: invalid first operand
+Error in line 10: in instruction bne the operand can only be a label or an address in register
+Error in line 11: in instruction red the operand can not be a number
+Error in line 13: in instruction jsr the operand can only be a label or an address in register
+Error in line 14, extra text after command
+Error in line 15, extra text after command

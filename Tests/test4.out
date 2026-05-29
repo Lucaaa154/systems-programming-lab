@@ -1,0 +1,6 @@
+Reviewing Errors and Warnings for file test4.as:
+Error: in line 9, wrong definition of the macro. extra text after "endmacr"
+Error: in line 13, extra text after the definition of the macro macrname
+Error: in line 20, name of macro "macr": shouldn't be macro definition words
+Error: in line 27, name of the macro "mov": shouldn't be an instruction word
+Error: in line 34, multiple definition of the macro "validMacro"

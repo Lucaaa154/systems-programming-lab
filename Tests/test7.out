@@ -1,0 +1,18 @@
+Reviewing Errors and Warnings for file test7.as:
+Reviewing Errors and Warnings for file test7.am:
+Error: in line 1, invalid definition label, label template should be: starts with capital/small character only and after that can contain capital/small characters or digits
+Error in line 1: undefined command
+Error: in line 5, invalid definition label, label template should be: starts with capital/small character only and after that can contain capital/small characters or digits
+Error in line 5: undefined command
+Error: in line 8, label should start with capital/small character only
+Error in line 8: undefined command
+Error: in line 11, label should start with capital/small character only
+Error in line 11: undefined command
+Error in line 14, extra text after command
+Error: in line 22, label definition should end with :
+Error in line 22: undefined command
+Error: in line 25, invalid operand label, label template should be: starts with capital/small character only and after that can contain capital/small characters or digits
+Error in line 25: invalid first operand
+Error in line 28: in instruction dec the operand can not be a number
+Error: the number in line 34 can not be represented in 12 bits
+Error in line 40: invalid first operand
